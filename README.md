@@ -18,7 +18,7 @@ Navigate to the project directory:
 cd PY.TestRailway
 ```
 
-### Running the Application Locally (Without Docker)
+### Running the Application Locally
 #### Prerequisites
 - [Python](https://www.python.org/downloads/) must be installed on your machine.
 - Install the [fasthtml framework here.](https://docs.fastht.ml/)
