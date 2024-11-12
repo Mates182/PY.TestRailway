@@ -1,22 +1,21 @@
-# PY Practice Task
+# Python Test Railway
 
 ## Description
-This is a simple Python application using `fasthtml` that starts an HTTP server. It displays "Hello World" on the main page, and when clicked, it responds with "Nice to be here!" This project demonstrates basic server setup and deployment within Docker. The project is deployed and accessible online, and it can also be run locally using Docker.
+This is a simple Python application using `fasthtml` that starts an HTTP server. It displays "Hello World" on the main page, and when clicked, it responds with "Nice to be here!" The project is deployed and accessible online, and it can also be run locally.
 
 ## Project Links
-- **Deployed on Railway**: [PY Practice Task on Railway](https://pypracticetask-production.up.railway.app/)
-- **Docker Hub Repository**: [mates182/py_practicetask on Docker Hub](https://hub.docker.com/repository/docker/mates182/py_practicetask)
+- **Deployed on Railway**: [PY Test Railway on Railway](https://pytestrailway-mateopillajo.up.railway.app/)
 
 ## Getting Started
 
 ### Cloning the Repository
 To clone the repository, use the following command:
 ```bash
-git clone https://github.com/Mates182/PY.PracticeTask.git
+git clone https://github.com/Mates182/PY.TestRailway.git
 ```
 Navigate to the project directory:
 ```bash
-cd PY.PracticeTask
+cd PY.TestRailway
 ```
 
 ### Running the Application Locally (Without Docker)
@@ -34,11 +33,7 @@ cd PY.PracticeTask
    http://localhost:8080
    ```
 
-### Running the Application with Docker
-
-To run the application with Docker, visit the Docker Hub repository for this project: [mates182/py_practicetask on Docker Hub](https://hub.docker.com/repository/docker/mates182/py_practicetask).
-
 ---
 
 ## Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check out the [issues page](https://github.com/Mates182/PY.PracticeTask/issues) if you'd like to contribute.# PY.TestRailway
+Contributions, issues, and feature requests are welcome! Feel free to check out the [issues page](https://github.com/Mates182/PY.TestRailway/issues) if you'd like to contribute.# PY.TestRailway
